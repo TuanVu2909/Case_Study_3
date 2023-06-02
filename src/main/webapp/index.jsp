@@ -8,6 +8,11 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
+<<<<<<< HEAD
 <a href="hello-servlet">Hello world</a>
+=======
+<a href="hello-servlet">Hello codegym</a>
+<a href="">This is test</a>
+>>>>>>> dev-ly
 </body>
 </html>
